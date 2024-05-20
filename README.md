@@ -19,6 +19,6 @@ I'm Shahbaz Ali, a full-time software engineer 👨‍💻
 
 My Skill Set
 Frontend
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap&perline=3)](https://skillicons.dev)
 Backend
 JavaScript TypeScript MongoDB Node.js Python MySQL Git Solidity 
