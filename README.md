@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Shahbaz Ali, a full-time software engineer 👨‍💻
+🔭 I’m currently working in CinqTech as a software engineer (web).
+
+My Skill Set
+Frontend
+Angular Bootstrap CSS3 HTML5 JavaScript TypeScript
+Backend
+JavaScript TypeScript MongoDB Node.js Python MySQL Git Solidity 
