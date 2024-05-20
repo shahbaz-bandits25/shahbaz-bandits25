@@ -19,6 +19,6 @@ I'm Shahbaz Ali, a full-time software engineer 👨‍💻
 
 My Skill Set
 Frontend
-Angular Bootstrap CSS3 HTML5 JavaScript TypeScript
+Angular [Bootstrap](https://camo.githubusercontent.com/fa13b2986e2936c2ec9b80bc1d5411137af974a1e197d2229cad0f255638be81/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f626f6f7473747261702d706c61696e2e737667) CSS3 HTML5 JavaScript TypeScript
 Backend
 JavaScript TypeScript MongoDB Node.js Python MySQL Git Solidity 
